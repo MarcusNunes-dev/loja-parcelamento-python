@@ -1,8 +1,8 @@
-# 💳 Loja com Cálculo de Parcelamento
+# Loja com Cálculo de Parcelamento
 
 Este projeto simula o sistema de pagamento parcelado de uma loja, com aplicação de juros conforme a quantidade de parcelas.
 
-## 🚀 Como funciona
+## Como funciona
 
 O usuário informa:
 - O **valor do pedido**
@@ -18,16 +18,18 @@ O programa calcula o valor de cada parcela e o valor total a ser pago, aplicando
 | De 9 a 12 parcelas   | 16%            |
 | 13 parcelas ou mais  | 32%            |
 
-## 📌 Exemplo de uso
+## Exemplo de uso
 
 ```bash
 Digite o valor do pedido: 1000
 Digite a quantidade de parcelas: 6
 O valor da parcela é: R$ 180.00
 O valor total parcelado é de: R$ 1080.00
-🛠️ Tecnologias
+
+
+🛠Tecnologias
 Python 3.x
 
-👨‍💻 Autor
+Autor
 Marcus Vinicius da Silva Nunes
 GitHub - MarcusNunes-dev
